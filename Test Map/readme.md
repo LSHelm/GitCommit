@@ -38,5 +38,5 @@ Op onderstaande manier is een tabel te maken.
 
 ***
 
-## Tabel maken
+## Bijwerken
 Test met bijwerken opmaak.
