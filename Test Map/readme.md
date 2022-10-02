@@ -37,3 +37,6 @@ Op onderstaande manier is een tabel te maken.
 |Categorie2|Naam2|Nummer2|
 
 ***
+
+## Tabel maken
+Test met bijwerken opmaak.
